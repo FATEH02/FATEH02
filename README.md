@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Kotlin,C++,Dsa**
 
-- 📫 How to reach me **fatehsingh07462@gmail.com**
+- 📫 How to reach me **fatehsingh.code@gmail.com**
 
 - ⚡ Fun fact **I Think Ai will overtake 🤖**
 
