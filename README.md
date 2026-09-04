@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fateh02&show_icons=true&locale=en" alt="fateh02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fateh02&" alt="fateh02" /></p>
+[![Check Anki Due Cards](https://github.com/FATEH02/anki-due-tracker/actions/workflows/check-due.yml/badge.svg)](https://github.com/FATEH02/anki-due-tracker/actions/workflows/check-due.yml)
